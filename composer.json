@@ -6,7 +6,7 @@
         "html",
         "whitelist"
     ],
-    "description": "A lightweight php-based HTML tag and attribute whitelist filter. Fork of lincanbin/white-html-filter with two critical bugfixes",
+    "description": "A lightweight php-based HTML tag and attribute whitelist filter. Fork of lincanbin/white-html-filter with three critical bugfixes",
     "license": "Apache-2.0",
     "authors": [
         {
